@@ -3,7 +3,7 @@
 //Author: David Taylor
 //Purpose: Develop a Java application where you will create a two-dimensional array to hold cards dealt to the
 //players. You will use the one-dimensional array to hold the entire card deck (ease of
-//use for shuffling and playing new games) use the two-dimensional array to
+//use for shuffling and playing new games) and use the two-dimensional array to
 //hold each player’s card for a current game being played.
 //We will assume the game is played with 4.
 //*************************************************************************
